@@ -1,4 +1,4 @@
-# tinder
+# fb-login-example
 
 A new Flutter project.
 
